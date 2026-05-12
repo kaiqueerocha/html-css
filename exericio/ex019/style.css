@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to left, #036564, #033649);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    text-align: center;
+    font-family: "Bebas Neue";
+    font-size: 4em;
+}
+
+.basico{
+    text-align: center;
+    background-image: linear-gradient(to right, pink, blue);
+}
+
+.intermediario{
+    text-align: center;
+    background-image: linear-gradient(to right, green, pink);
+}
+
+.avançado{
+    text-align: center;
+    background-image: linear-gradient(to right, purple, pink);
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: whitesmoke;
+}
+
+p{
+    color: whitesmoke;
+}
